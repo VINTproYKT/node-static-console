@@ -1,0 +1,44 @@
+{
+  "author": {
+    "email": "vintproykt@gmail.com",
+    "name": "Rodion Borisov"
+  },
+  "bugs": {
+    "url": "https://github.com/VINTproYKT/node-static-console/issues"
+  },
+  "description": "Log anything from everywhere, output log anywhere, keep structure of the messages.",
+  "homepage": "https://github.com/VINTproYKT/node-static-console#readme",
+  "keywords": [
+    "node",
+    "console",
+    "static",
+    "fixed",
+    "output",
+    "log",
+    "trace",
+    "portable",
+    "message",
+	"basic",
+	"common",
+	"global",
+	"simple",
+	"inspect",
+	"debug",
+	"text",
+	"HTML",
+	"parse"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "vintproykt@gmail.com",
+      "name": "vintproykt"
+    }
+  ],
+  "name": "static-console",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTproYKT/node-static-console.git"
+  },
+  "version": "0.0.1"
+}
