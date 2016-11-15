@@ -36,8 +36,8 @@
     "basic",
     "global",
     "simple",
-	  "universal",
-	  "extensible"
+    "universal",
+    "extensible"
   ],
   "license": "MIT",
   "main": "StaticConsole.js",
@@ -55,5 +55,5 @@
   "scripts": {
     "test": "ava --verbose test/MainTest.js"
   },
-  "version": "0.0.1"
+  "version": "0.1.0"
 }
