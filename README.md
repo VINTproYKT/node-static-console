@@ -131,9 +131,6 @@ Default solution is bundled with StaticConsole: `RawModel`, `StdOutput`, `FileOu
 
 `FileOutput` is not initialized by default, but it must work. So you can print to `c.outputs.std` and instance of `FileOutput` at same time.
 
-### Make your own solution
-If you want to make your own model, output or router class, proceed to source code of module and copy standard solution's directories.
-
 ## Test
 ```
 npm test
@@ -144,3 +141,15 @@ ava --verbose test/MainTest.js
 ```
 
 To make tests work, you'll probably need to have local copy of [`ava`](https://npmjs.org/package/ava) package in your `node_modules`.
+
+### Make your own solution
+If you want to make your own model, output or router class, proceed to source code of module and copy standard solution's directories (`RawModel`, `StdOutput`, `StdRouter`).
+
+### Also try `static-console` with these plugins:
+
+Outputs:
+ - [ReactOutput](https://www.npmjs.com/package/static-console-plugin-react-output)
+ - [DomOutput](https://www.npmjs.com/package/static-console-plugin-dom-output)
+ - [AlertOutput](https://www.npmjs.com/package/static-console-plugin-alert-output)
+
+[Find other plugins](https://www.npmjs.com/search?q=static-console-plugin-).
