@@ -1,6 +1,8 @@
 # static-console
 Keep structure of the messages and log them to any output, using specific plugins.
 
+[![Gitter](https://badges.gitter.im/VINTproYKT/node-static-console.svg)](https://gitter.im/VINTproYKT/node-static-console?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Install
 ```
 $ npm install --save static-console
