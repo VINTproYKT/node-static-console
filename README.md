@@ -5,8 +5,9 @@ Keep structure of the messages and log them to any output, using specific plugin
 
 ## Install
 ```
-$ npm install --save static-console
+$ npm install static-console --save --only=production
 ```
+Recommended option `--only=production` to skip installation of testing environment. If you want to [test it](#test), don't put this option.
 
 ## API
 ### **`StaticConsole`**
