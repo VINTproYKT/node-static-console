@@ -1,5 +1,4 @@
 const Output = require('static-console/output');
-const process = require('process');
 
 module.exports = class StdOutput extends Output {
 	constructor(options) {
